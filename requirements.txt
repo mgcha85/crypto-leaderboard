@@ -1,0 +1,9 @@
+numpy<2.0.0
+streamlit
+sqlalchemy
+psycopg2-binary
+pandas
+openpyxl
+plotly
+python-dotenv
+TA-Lib
